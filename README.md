@@ -1,3 +1,3 @@
 # MyBlog-Styled
 
-[knightmac19.github.io/MyBlog-Styled](knightmac19.github.io/MyBlog-Styled)
+[Deployed site](https://knightmac19.github.io/MyBlog-Styled/)
